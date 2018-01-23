@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid">
+  <metadata>
+    <meta content="cover-image" name="cover"/>
+    <dc:type>Text</dc:type>
+    <dc:title>Philokalia - The Complete Text</dc:title>
+    <dc:description>The Philokalia (Gk. ÏÎ¹Î»Î¿ÎºÎ±Î»Î¯Î±, "love of the beautiful") is an anthology of texts that were written between the fourth and fifteenth centuries by mostly monastic writers of the Christian hesychast tradition. It was compiled by St. Nikodemos of the Holy Mountain and St. Makarios of Corinth, two monks of the Greek Orthodox Church, and first published in 1782. The book is a principal spiritual text for all the Eastern Orthodox Churchesâin the last century its popularity has spread to include Western Christians, due to the growing interest in contemplative prayer.
+
+The various texts were chosen because of their shared teachings on the way to self-perfection, illumination, and purification, with a strong emphasis on inward prayer. They were originally written for the guidance and instruction of monks in "the practise of the contemplative life", though the Philokalia has been used widely by lay Christians. The works were individually known in Greek-reading Christian monastic culture before their inclusion in The Philokalia, but the collection resulted in a much wider readership due to its translation into several languages, including a seven-volume translation into Russian (Dobrotolyubie) by St. Theophan the Recluse in the nineteenth-century.
+
+The full name of the text is The Philokalia of the Neptic Saints gathered from our Holy Theophoric Father, through which, by means of the philosophy of ascetic practice and contemplation, the intellect is purified, illumined, and made perfect. That title distinguishes it from many other books of monastic spirituality that are also titled Philokalia (or Philocalia), and also gives emphasis to the Greek nepsis, or "watchfulness". The other notable book titled Philokalia is an anthology of the writings of the third-century theologian Origen.</dc:description>
+    <dc:subject>philokalia</dc:subject>
+    <dc:creator>St. Nikodemos of the Holy Mountain and St. Makarios of Corinth</dc:creator>
+    <dc:identifier id="bookid">Philokalia-TheCompleteText</dc:identifier>
+    <dc:language>eng</dc:language>
+  </metadata>
+  <manifest>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="images/leaf-image0000.jpg" id="leaf-image0000" media-type="image/jpeg"/>
+    <item href="leaf0000.html" id="leaf0000" media-type="application/xhtml+xml"/>
+    <item href="part0000.html" id="part0000" media-type="application/xhtml+xml"/>
+    <item href="part0001.html" id="part0001" media-type="application/xhtml+xml"/>
+    <item href="part0002.html" id="part0002" media-type="application/xhtml+xml"/>
+    <item href="part0003.html" id="part0003" media-type="application/xhtml+xml"/>
+    <item href="part0004.html" id="part0004" media-type="application/xhtml+xml"/>
+    <item href="part0005.html" id="part0005" media-type="application/xhtml+xml"/>
+    <item href="part0006.html" id="part0006" media-type="application/xhtml+xml"/>
+    <item href="part0007.html" id="part0007" media-type="application/xhtml+xml"/>
+    <item href="part0008.html" id="part0008" media-type="application/xhtml+xml"/>
+    <item href="part0009.html" id="part0009" media-type="application/xhtml+xml"/>
+    <item href="part0010.html" id="part0010" media-type="application/xhtml+xml"/>
+    <item href="part0011.html" id="part0011" media-type="application/xhtml+xml"/>
+    <item href="part0012.html" id="part0012" media-type="application/xhtml+xml"/>
+    <item href="part0013.html" id="part0013" media-type="application/xhtml+xml"/>
+    <item href="part0014.html" id="part0014" media-type="application/xhtml+xml"/>
+    <item href="part0015.html" id="part0015" media-type="application/xhtml+xml"/>
+    <item href="part0016.html" id="part0016" media-type="application/xhtml+xml"/>
+    <item href="part0017.html" id="part0017" media-type="application/xhtml+xml"/>
+    <item href="part0018.html" id="part0018" media-type="application/xhtml+xml"/>
+    <item href="part0019.html" id="part0019" media-type="application/xhtml+xml"/>
+    <item href="part0020.html" id="part0020" media-type="application/xhtml+xml"/>
+    <item href="part0021.html" id="part0021" media-type="application/xhtml+xml"/>
+    <item href="part0022.html" id="part0022" media-type="application/xhtml+xml"/>
+    <item href="images/picture0.jpg" id="picture0" media-type="image/jpeg"/>
+    <item href="part0023.html" id="part0023" media-type="application/xhtml+xml"/>
+    <item href="part0024.html" id="part0024" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="leaf0000" linear="yes"/>
+    <itemref idref="part0000"/>
+    <itemref idref="part0001"/>
+    <itemref idref="part0002"/>
+    <itemref idref="part0003"/>
+    <itemref idref="part0004"/>
+    <itemref idref="part0005"/>
+    <itemref idref="part0006"/>
+    <itemref idref="part0007"/>
+    <itemref idref="part0008"/>
+    <itemref idref="part0009"/>
+    <itemref idref="part0010"/>
+    <itemref idref="part0011"/>
+    <itemref idref="part0012"/>
+    <itemref idref="part0013"/>
+    <itemref idref="part0014"/>
+    <itemref idref="part0015"/>
+    <itemref idref="part0016"/>
+    <itemref idref="part0017"/>
+    <itemref idref="part0018"/>
+    <itemref idref="part0019"/>
+    <itemref idref="part0020"/>
+    <itemref idref="part0021"/>
+    <itemref idref="part0022"/>
+    <itemref idref="part0023"/>
+    <itemref idref="part0024"/>
+  </spine>
+  <guide>
+    <reference href="leaf0000.html" title="Title Page" type="title-page"/>
+    <reference href="part0000.html" title="Book" type="text"/>
+  </guide>
+</package>
